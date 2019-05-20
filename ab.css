@@ -1,0 +1,44 @@
+.container-fluid{
+
+    
+    background-image: url("home2.jpeg");
+   
+
+}
+.img {
+    
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+.img img{
+
+    margin-top:15px ;
+
+}
+.container{
+
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom:15px; 
+    background-color: white ;
+    
+}
+
+.container-2 {
+
+    
+    text-align: center;
+    background-color:#4682B4;
+}
+
+.row{
+    padding-left: 60px;
+    justify-content: center;
+
+
+}

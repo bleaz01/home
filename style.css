@@ -1,0 +1,27 @@
+.container-fluid{
+    
+    background-image: url("home2.jpeg");
+}
+
+
+
+.card{
+
+    margin: 50px 10px 50px 10px;
+
+
+}
+.card-img{
+
+    
+    opacity: 0,7;
+    
+
+}
+
+.card-title{
+
+    text-align: end;
+    color: white;
+
+}
